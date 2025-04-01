@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test24"
+  annotations:
+    github.com/project-slug: eonuallain/test24
+spec:
+  type: service
+  owner: eonuallain
+  lifecycle: experimental
